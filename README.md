@@ -1,2 +1,7 @@
-# privacypolicyforext
+# Privacy Policy
 A README file containing the privacy policy of the Droplet Implemenations Extension Repo (DrIER for short) 
+Droplet Implemenations Extension Repo ("DrIER") is an extension intended to be used by Droplet Implementation team members as an internal tool repository to improve efficiency specific to Droplet Implementation. This README.md informs you of our policies regarding the collection, use, and disclosure of personal data when you use the DrIER Chrome Extension. By using the DrIER Chrome Extension, you agree to the collection and use of information in accordance with this policy and the Google Privacy Policy (https://policies.google.com/privacy) associated with Chrome Extensions. DrIER does not collect any personal information from users and therefore doesn't have a way to store it or use it. DrIER cannot share any personal information because it does not collect nor does it store personal information. DrIER does use storage permissions for storing cookies for the settings you select within DrIER (as seen in the images below), this data does not contain personal information. DrIER will not ask you for personal or location data.
+
+![mainPopup](https://user-images.githubusercontent.com/106707550/185157114-275d1779-d62d-4094-ac97-e5a3937ec3d9.png)
+
+![settingsAndOptions](https://user-images.githubusercontent.com/106707550/185157118-d25ab466-1890-4239-8d4f-2801a1878ad3.png)
